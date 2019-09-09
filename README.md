@@ -84,3 +84,7 @@
 ~~~html
 </html>
 ~~~
+
+# Resultado da nova página
+
+![example](./resources/result2.png)
