@@ -26,5 +26,6 @@ Digite o código abaixo em algum editor de texto (bloco de notas, notepad++, subl
 </html>
 ~~~
 
-Resultado:
+# Resultado
+
 ![example](./resources/image1.png)
