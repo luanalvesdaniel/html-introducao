@@ -1,5 +1,5 @@
 # html-introducao
-IntroduÃ§Ã£o ao HTML
+Introdução ao HTML
 
 # O que é HTML?
 É uma linguagem utilizada para construção de páginas na web, sendo uma linguagem de programação e marcação de texto
@@ -26,4 +26,5 @@ Digite o código abaixo em algum editor de texto (bloco de notas, notepad++, subl
 </html>
 ~~~
 
+Resultado:
 ![example](./resources/image1.png)
